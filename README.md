@@ -18,7 +18,7 @@ Make your commit message using `git commit -m "this is the changes I made" `
 Push to the branch using `git push`
 
 
-## Installation
+## Installation and Usage
 
 Create a new folder for your project
 
