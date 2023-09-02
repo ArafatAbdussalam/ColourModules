@@ -20,7 +20,7 @@ Push to the branch using `git push`
 
 ## Installation and Usage
 
-Create a new folder for your project
+Create a new folder for your project in the root directory
 
 Initialize the package using `npm init -y` which answers "yes" for all questions
 
